@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bootstrap to WordPress</title>
+	<atom:link href="https://shbgamer.github.io/B2W/feed/" rel="self" type="application/rss+xml" />
+	<link>https://shbgamer.github.io/B2W</link>
+	<description>Earn An Extra $1k - $5k a Month by Learning to Code Your Very Own Responsive &#38; Custom WordPress Websites with Bootstrap</description>
+	<lastBuildDate>Mon, 07 Oct 2019 21:19:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.5</generator>
+	<item>
+		<title>Blog title here</title>
+		<link>https://shbgamer.github.io/B2W/uncategorized/blog-title-here/</link>
+				<comments>https://shbgamer.github.io/B2W/uncategorized/blog-title-here/#comments</comments>
+				<pubDate>Mon, 07 Oct 2019 19:42:21 +0000</pubDate>
+		<dc:creator><![CDATA[SHBGamer]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[another]]></category>
+		<category><![CDATA[premium]]></category>
+		<category><![CDATA[yadda yadaa]]></category>
+
+		<guid isPermaLink="false">https://shbgamer.github.io/B2W/?p=191</guid>
+				<description><![CDATA[Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam porta sem malesuada magna mollis euismod. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur. Aenean lacinia bibendum nulla sed consectetur. Curabitur blandit tempus porttitor. Etiam porta sem malesuada magna mollis euismod. Lorem ipsum dolor sit amet, consectetur adipiscing... <a class="moretag" href="https://shbgamer.github.io/B2W/uncategorized/blog-title-here/"> continue reading &#187;</a>]]></description>
+								<content:encoded><![CDATA[
+<p>Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam porta sem malesuada magna mollis euismod. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur. Aenean lacinia bibendum nulla sed consectetur. Curabitur blandit tempus porttitor.</p>
+
+
+
+<p>Etiam porta sem malesuada magna mollis euismod. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vestibulum id ligula porta felis euismod semper. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Sed posuere consectetur est at lobortis.</p>
+
+
+
+<h3>Subtitle</h3>
+
+
+
+<p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur.</p>
+
+
+
+<h4>Another subtitle</h4>
+
+
+
+<p>Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Maecenas sed diam eget risus varius blandit sit amet non magna. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Etiam porta sem malesuada magna mollis euismod. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://shbgamer.github.io/B2W/uncategorized/blog-title-here/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+							</item>
+		<item>
+		<title>Hello world!</title>
+		<link>https://shbgamer.github.io/B2W/tutorialscoding/hello-world/</link>
+				<comments>https://shbgamer.github.io/B2W/tutorialscoding/hello-world/#comments</comments>
+				<pubDate>Tue, 24 Sep 2019 21:31:06 +0000</pubDate>
+		<dc:creator><![CDATA[SHBGamer]]></dc:creator>
+				<category><![CDATA[Tutorials,Coding]]></category>
+		<category><![CDATA[another]]></category>
+		<category><![CDATA[premium]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">https://shbgamer.github.io/B2W/?p=1</guid>
+				<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!ds ds Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam porta sem malesuada magna mollis euismod. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur. Aenean lacinia bibendum nulla sed consectetur. Curabitur blandit... <a class="moretag" href="https://shbgamer.github.io/B2W/tutorialscoding/hello-world/"> continue reading &#187;</a>]]></description>
+								<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!ds ds </p>
+
+
+
+<p>Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam porta sem malesuada magna mollis euismod. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur. Aenean lacinia bibendum nulla sed consectetur. Curabitur blandit tempus porttitor.</p>
+
+
+
+<p>Etiam porta sem malesuada magna mollis euismod. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vestibulum id ligula porta felis euismod semper. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Sed posuere consectetur est at lobortis.</p>
+
+
+
+<h3>Subtitle</h3>
+
+
+
+<p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur.</p>
+
+
+
+<h4>Another subtitle</h4>
+
+
+
+<p>Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Maecenas sed diam eget risus varius blandit sit amet non magna. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Etiam porta sem malesuada magna mollis euismod. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://shbgamer.github.io/B2W/tutorialscoding/hello-world/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+							</item>
+	</channel>
+</rss>
